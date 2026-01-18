@@ -1,7 +1,8 @@
 {
   "name": "my-bab-bible",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "author": "journey",
   "scripts": {
     "dev": "next dev --turbopack",
     "build": "next build",
